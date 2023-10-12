@@ -1,0 +1,30 @@
+Points definitely seems like a good indicator
+I'm going to defer on using this since it's collinear with many other variables
+It's too general of a statistic
+
+Interestingly, first serve percentage is about the same distribution between winners and losers
+
+Higher distribution in first serve %, 2nd serve won, retFstWon/retSndWon for winners compared to losers***
+
+aces about the same, slightly higher for winners, same with DF
+
+strangely about the same for winners
+
+winners have less UE compared to losers***
+
+WUeratio slight difference
+
+losers will face more break points compared to winners ***
+
+Winners will save more break points ***
+
+based on the shape, winners will save more break points
+shows a lot did not save, but it may be that they did not face any at all, will have to fix that**
+
+generally winners will will win more break points *
+
+net points pct won, higher for winners
+
+forced about the same
+
+unret is about the same 
